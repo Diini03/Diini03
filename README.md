@@ -8,8 +8,8 @@ I share project breakdowns on LinkedIn, write occasionally on Medium, and keep a
 
 If you're interested in data, software, or building useful things, you'll probably find something worth exploring.
 
-🌐 Portfolio: https://www.diinikahiye.online
+### Links
 
-💼 LinkedIn: https://www.linkedin.com/in/diinikahiye/
-
-✍️ Medium: https://medium.com/@diiniyare74
+- [Portfolio](https://www.diinikahiye.online)
+- [LinkedIn](https://www.linkedin.com/in/diinikahiye/)
+- [Medium](https://medium.com/@diiniyare74)
