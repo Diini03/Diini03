@@ -10,6 +10,7 @@ If you're interested in data, software, or building useful things, you'll probab
 
 ### Links
 
-- [Portfolio](https://www.diinikahiye.online)
-- [LinkedIn](https://www.linkedin.com/in/diinikahiye/)
-- [Medium](https://medium.com/@diiniyare74)
+- If you want to see what I've actually built, from data projects to web apps, this is probably the best place to start: [My Portfolio](https://www.diinikahiye.online)
+- Got a few thoughts, project stories, and random tech rabbit holes that were too long for a LinkedIn post: Medium [Read Blogs On Here](https://medium.com/@diiniyare74)
+- The professional corner of the internet. I share updates, projects, and occasionally pretend I know what I'm doing: [LinkedIn](https://www.linkedin.com/in/diinikahiye/)
+
