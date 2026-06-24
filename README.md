@@ -12,7 +12,7 @@ If you're interested in data, software, or building useful things, you'll probab
 
 - BTW just Explore my Porfolio here and see what i actually builded: [My Portfolio](https://www.diinikahiye.online)
 - Every now and then I write things down before I forget them: [Read Blogs On My Medium](https://medium.com/@diiniyare74)
-- Somehow the internet decided this is where professionals hang out:: [LinkedIn](https://www.linkedin.com/in/diinikahiye/)
+- Somehow the internet decided this is where professionals hang out: [LinkedIn](https://www.linkedin.com/in/diinikahiye/)
 
 
 
