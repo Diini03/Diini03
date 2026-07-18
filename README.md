@@ -1,6 +1,6 @@
 ## About Me
 
-CS graduate. I build things.
+CS graduate.
 
 Some projects involve data, some involve AI, and some end up becoming web applications. Most start with curiosity and a simple question: "Can I build this?"
 
